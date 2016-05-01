@@ -4,8 +4,22 @@
         <description><![CDATA[Cameron Osborn Consulting]]></description>
         <link>https://thegrid.ai/cameronosborn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 23:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 23:13:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cameronosborn/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Let's begin.]]></title>
+            <description><![CDATA[<article><h1>Let's begin.</h1><h2>Call</h2><p>425.442.9271</p></article>]]></description>
+            <link>https://thegrid.ai/cameronosborn/lets-begin/index.html</link>
+            <guid isPermaLink="false">ce80e57f-a751-42a4-afb8-ceb282be40da</guid>
+            <pubDate>Sun, 01 May 2016 23:13:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My theory]]></title>
+            <description><![CDATA[<p>Mark Twain remarks that one of the fundamental rules of writing is the author must say what he means, not merely come close. I like to take the same tack when it comes to software development—the tools presented to us in the digital world are limited at this point by only our imaginations; we ought to expect that the software we use does what it needs to, not merely come close. My goal as a software developer is to build systems that present the user with a custom solution that fits their needs precisely.</p>]]></description>
+            <link>https://thegrid.ai/cameronosborn/my-theory/index.html</link>
+            <guid isPermaLink="false">a910740e-3918-4e60-93b1-ae8d5c55caa0</guid>
+            <pubDate>Sun, 01 May 2016 23:13:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Custom Software Solutions]]></title>
             <description><![CDATA[<article><h1>Custom Software Solutions</h1><h2>Creative Web Development</h2></article>]]></description>
