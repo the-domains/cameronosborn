@@ -4,8 +4,16 @@
         <description><![CDATA[Cameron Osborn Consulting]]></description>
         <link>https://thegrid.ai/cameronosborn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 22:45:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 22:46:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cameronosborn/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ ]]></title>
+            <description><![CDATA[<article><h1></h1><h2>Call</h2><p>
+</p></article>]]></description>
+            <link>https://thegrid.ai/cameronosborn/43e015bb-b78c-486e-a88a-0d749d08a751/index.html</link>
+            <guid isPermaLink="false">43e015bb-b78c-486e-a88a-0d749d08a751</guid>
+            <pubDate>Sun, 01 May 2016 22:45:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Here's just a small sampling of the projects I have worked on.]]></title>
             <description><![CDATA[<article><h1>Here's just a small sampling of the projects I have worked on.</h1><h2>AIMS</h2><p>Armory Information Management System (AIMS) fulfilled the need for a database-driven weapons issuance system for United States Marine Corps armories. Think library check-in/check-out system, but with guns instead of books.</p></article>]]></description>
