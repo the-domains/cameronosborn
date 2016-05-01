@@ -2,14 +2,22 @@
     <channel>
         <title><![CDATA[Cameron Osborn Consulting]]></title>
         <description><![CDATA[Cameron Osborn Consulting]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cameronosborn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 23:13:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 01 May 2016 23:13:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cameronosborn/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Projects]]></title>
+            <description><![CDATA[<article><h1>Projects</h1><h2>Here's just a small sampling of the projects I have worked on.</h2><p>
+</p></article>]]></description>
+            <link>https://thegrid.ai/cameronosborn/projects/index.html</link>
+            <guid isPermaLink="false">fa5f3fc7-b6b5-4b65-babe-a4b10215e311</guid>
+            <pubDate>Sun, 01 May 2016 23:13:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My Story]]></title>
             <description><![CDATA[<article><h1>My Story</h1><p>I've always had a knack for helping people with their technology. Most of my primary education took place during that glorious time when teachers were transitioning from overhead projectors to laptops and smartboards. I was always the one to help out as they worked to navigate this brave new world. If there's one thing I learned from all of that, it's the need for intuitive systems.</p></article>]]></description>
-            <link>undefinedmy-story/index.html</link>
+            <link>https://thegrid.ai/cameronosborn/my-story/index.html</link>
             <guid isPermaLink="false">1482257d-fa6f-4bdb-b1cc-6fc7e04dc149</guid>
             <pubDate>Sun, 01 May 2016 23:13:05 GMT</pubDate>
         </item>
