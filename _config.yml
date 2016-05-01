@@ -1,9 +1,7 @@
-favicon: null
 name: Cameron Osborn Consulting
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.9301075
+typography_spectrum: 0.1962858329061419
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
-color:
-  saturation: 0.2937530416529626
-  brandStrength: 0.9710332537069917
-  rhythmicContrast: 0.4249625422526151
-  brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  lightness: 0.6087707942351699
-typography_spectrum: 0.1962858329061419
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
-layout_spectrum: 0.9301075
 analytics:
-  twitter: null
   google: null
   facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#414042'
+    - '#36b3a8'
+    - '#ffffff'
+    - '#778b89'
+    - '#abb7b6'
+  brandStrength: 0.9710332537069917
+  lightness: 0.6087707942351699
+  saturation: 0.2937530416529626
+  rhythmicContrast: 0.4249625422526151
+purpose: []
