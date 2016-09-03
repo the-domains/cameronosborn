@@ -1,7 +1,30 @@
-name: Cameron Osborn Consulting
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.84506
+color:
+  brandColors:
+    - '#414042'
+    - '#36b3a8'
+    - '#ffffff'
+    - '#778b89'
+    - '#abb7b6'
+  brandStrength: 0.9710332537069917
+  lightness: 0.6087707942351699
+  saturation: 0.4375
+  rhythmicContrast: 0.4249625422526151
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Cameron Osborn Consulting
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +38,5 @@ collections:
       format: rss
       number: 10
 title: Cameron Osborn Consulting
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#414042'
-    - '#36b3a8'
-    - '#ffffff'
-    - '#778b89'
-    - '#abb7b6'
-  brandStrength: 0.9710332537069917
-  lightness: 0.6087707942351699
-  saturation: 0.4375
-  rhythmicContrast: 0.4249625422526151
+description: Creative Web Design | Custom Software Solutions
 purpose: []
